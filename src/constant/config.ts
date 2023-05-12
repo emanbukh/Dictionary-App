@@ -1,1 +1,1 @@
-export const BASEURL = "/Dictionary-App"
+export const BASEURL = "/Dictionary-App/";
